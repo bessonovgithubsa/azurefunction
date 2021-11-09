@@ -1,4 +1,4 @@
-# azurefunction
+# Azure function guide
 
 This is the web service based on Azure Function to listen for GitHub webhooks to configure branch protection rules on repositories. 
 
